@@ -1,14 +1,13 @@
 #include "../headers/header.h"
 
 /**
- * drawRect - draw a rectangle
- * @x: x coordinate
- * @y: y coordinate
- * @width: rectangle width
- * @height: rectangle height
- * @color: pixel color
+ * Draw a rectangle on the screen.
+ * @x: X-coordinate of the top-left corner of the rectangle.
+ * @y: Y-coordinate of the top-left corner of the rectangle.
+ * @width: Width of the rectangle.
+ * @height: Height of the rectangle.
+ * @color: Color of the pixels.
 */
-
 void drawRect(int x, int y, int width, int height, color_t color)
 {
 	int i, j;
@@ -19,14 +18,13 @@ void drawRect(int x, int y, int width, int height, color_t color)
 }
 
 /**
- * drawLine - draw a line
- * @x0: x coordinate init
- * @y0: y coordinate init
- * @x1: x coordinate init
- * @y1: y coordinate end
- * @color: pixel color
+ * Draw a line on the screen.
+ * @x0: X-coordinate of the starting point of the line.
+ * @y0: Y-coordinate of the starting point of the line.
+ * @x1: X-coordinate of the ending point of the line.
+ * @y1: Y-coordinate of the ending point of the line.
+ * @color: Color of the pixels.
 */
-
 void drawLine(int x0, int y0, int x1, int y1, color_t color)
 {
 	float xIncrement, yIncrement, currentX, currentY;
