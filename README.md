@@ -44,6 +44,6 @@ Contributions are welcome! If you have any ideas, enhancements, or bug fixes, pl
 
 ## License
 
-Copyright © 2023 ALX, All rights reserved.
-
 This project is licensed under the [Holberton School License](https://intranet.alxswe.com/concepts/133).
+
+Copyright © 2023 ALX, All rights reserved.
