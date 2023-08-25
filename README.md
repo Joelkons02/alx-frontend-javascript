@@ -1,14 +1,11 @@
 # 3D Maze Project
 
-![Flowchart](https://camo.githubusercontent.com/c2c915efb12615366d41d763fcbff602e28b884172e2f544ed49c42e97fbf80b/68747470733a2f2f692e696d6775722e636f6d2f74304d784e6e692e706e67)
-
 A 3D maze game project developed using raycasting techniques. This project aims to create a game environment with walls, orientation, rotation, movement, and more!
 
 ## Table of Contents
 
 - [Description](#description)
 - [Demo](#demo)
-- [Flowchart](#flowchart)
 - [Tasks](#tasks)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
@@ -17,15 +14,11 @@ A 3D maze game project developed using raycasting techniques. This project aims 
 
 ## Description
 
-The goal of this project is to create a 3D maze game using raycasting. The player navigates through the maze, observing the walls, orientation, and rotation, and can interact with the environment.
+The goal of this project is to create a 3D maze game using raycasting. The player navigates through the maze, observing the walls, orientation, rotation, and can interact with the environment.
 
 ## Demo
 
 Check out the project in action: [Demo Link](https://www.youtube.com/embed/6T2N8gNUTQ8)
-
-## Flowchart
-
-![Flowchart](https://camo.githubusercontent.com/c2c915efb12615366d41d763fcbff602e28b884172e2f544ed49c42e97fbf80b/68747470733a2f2f692e696d6775722e636f6d2f74304d784e6e692e706e67)
 
 ## Tasks
 
@@ -51,4 +44,6 @@ Contributions are welcome! If you have any ideas, enhancements, or bug fixes, pl
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Copyright © 2023 ALX, All rights reserved.
+
+This project is licensed under the [Holberton School License](https://intranet.alxswe.com/concepts/133).
