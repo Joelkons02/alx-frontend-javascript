@@ -1,20 +1,104 @@
-## Project Title
+## 0x00. ES6 Basics
+### JavaScript
+### ES6
+**By:** Johann Kerbrat, Engineering Manager at Uber Works
+**Weight:** 1
+**Project will start Sep 25, 2023 4:00 AM, must end by Sep 26, 2023 4:00 AM**
+**Checker was released at Sep 25, 2023 10:00 AM**
+**An auto review will be launched at the deadline**
 
-This is a brief description of your project. Explain what your project is, how it works, and why it is useful.
+### Concepts
 
-### Table of Contents
+For this project, we expect you to look at these concepts:
 
-* Introduction
-* How to Use
-* Contributing
-* License
+* ::globe_americas:: Modern Javascript
+* ::wrench:: Software Linter
 
-### Introduction
+### Resources
 
-This project is a [type of project] that [what it does]. It is useful for [who it is useful for].
+Read or watch:
 
-### How to Use
+* [ECMAScript 6 - ECMAScript 2015](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ECMAScript_6)
+* [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements_and_declarations)
+* [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+* [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+* [Javascript ES6 — Iterables and Iterators](https://www.freecodecamp.org/news/javascript-es6-iterables-and-iterators-778203dd750d/)
 
-To use this project, follow these steps:
+### Learning Objectives
 
-1. Clone the project repository:
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+* What ES6 is
+* New features introduced in ES6
+* The difference between a constant and a variable
+* Block-scoped variables
+* Arrow functions and function parameters default to them
+* Rest and spread function parameters
+* String templating in ES6
+* Object creation and their properties in ES6
+* Iterators and for-of loops
+
+### Requirements
+
+**General**
+
+* All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
+* Allowed editors: vi, vim, emacs, Visual Studio Code
+* All your files should end with a new line
+* A README.md file, at the root of the folder of the project, is mandatory
+* Your code should use the js extension
+* Your code will be tested using the Jest Testing Framework
+* Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
+* All of your functions must be exported
+
+**Setup**
+
+* Install NodeJS 12.11.x
+    (in your home directory):
+
+    ```
+    curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+    sudo bash nodesource_setup.sh
+    sudo apt install nodejs -y
+    
+
+    $ nodejs -v
+    v12.11.1
+
+    $ npm -v
+    6.11.3
+
+* Install Jest, Babel, and ESLint
+    in your project directory, install Jest, Babel and ESList by using the supplied package.json and run npm install.
+
+**Configuration files**
+
+Add the files below to your project directory
+
+* package.json
+    Click to show/hide file contents
+* babel.config.js
+    Click to show/hide file contents
+* .eslintrc.js
+    Click to show/hide file contents
+
+**Finally…**
+
+Don’t forget to run npm install from the terminal of your project folder to install all necessary project dependencies.
+
+### Tasks
+
+0. Const or let?
+    mandatory
+    Modify
+
+    function taskFirst to instantiate variables using const
+    function taskNext to instantiate variables using let
+    export function taskFirst() {
+      var task = 'I prefer const when I can.';
+      return task;
+    }
+
+    export function getLast() {
+      re
