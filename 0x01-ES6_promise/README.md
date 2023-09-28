@@ -56,15 +56,15 @@ npm -v
 # Should output: 6.11.3
 Clone this repository and navigate to the project directory.
 
-Install Jest, Babel, and ESLint by running:
+## Install Jest, Babel, and ESLint by running:
 
-bash
+
 Copy code
 npm install
 Usage
 Explain how to use your code. Provide examples or usage scenarios if possible.
 
-File Structure
+## File Structure
 package.json: Configuration file for npm packages.
 babel.config.js: Babel configuration for transpiling JavaScript.
 utils.js: Utility functions for tasks requiring uploadPhoto and createUser.
@@ -73,7 +73,7 @@ Other project files...
 Testing
 You can run tests using Jest by executing the following command:
 
-bash
+
 Copy code
 npm run test
 Linting
