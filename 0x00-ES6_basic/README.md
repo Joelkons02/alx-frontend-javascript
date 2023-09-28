@@ -4,7 +4,7 @@
 This project is focused on teaching and demonstrating fundamental concepts of ECMAScript 2015 (ES6) in JavaScript. It covers various aspects of modern JavaScript development, including syntax, features, and best practices.
 
 ### Project Details
-- **Author**: [Your Name]
+- **Author**: Joel Nchindap
 - **Project Start Date**: September 25, 2023
 - **Project Deadline**: September 30, 2023
 
