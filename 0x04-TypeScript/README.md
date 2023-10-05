@@ -43,7 +43,7 @@ By the end of this project, you will be able to explain the following concepts w
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [Holberton School](Holberton School) file for details.
 
 ## Author
 
