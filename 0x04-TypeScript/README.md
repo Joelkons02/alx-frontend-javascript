@@ -5,7 +5,7 @@
 
 ## About 
 
-![About](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-about-online-marketing-justicon-lineal-justicon.png) This project is focused on learning TypeScript fundamentals including:
+![About](https://cdn-icons-png. This project is focused on learning TypeScript fundamentals including:
 
 - Basic types
 - Interfaces, classes and functions  
