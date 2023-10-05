@@ -1,4 +1,4 @@
-## 0x00. ES6 Basics 
+## Modern Javascript 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ES6](https://img.shields.io/badge/ES6-ES2015-blue.svg?style=for-the-badge&logo=javascript)
