@@ -1,50 +1,47 @@
-# TypeScript Project
+# 0x04. Typescript
 
-## Description
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-This is a TypeScript project that covers various TypeScript concepts and how to work with them in a web development context.
+## About
+
+This project is focused on learning TypeScript fundamentals including:
+
+- Basic types
+- Interfaces, classes and functions
+- Working with the DOM
+- Generics
+- Namespaces
+- Declaration merging
+- Ambient namespaces
+- Nominal typing
+
+## Resources
+
+### Read or watch
+
+- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) 
+- [TypeScript documentation](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ## Learning Objectives
 
-By the end of this project, you will be able to explain the following concepts without the need for external references:
+By the end of this project, you should be able to:
 
-- Basic types in TypeScript
-- Interfaces, Classes, and functions
-- Working with the DOM and TypeScript
-- Generic types
-- Using namespaces
-- Merging declarations
-- Using an ambient namespace to import an external library
-- Basic nominal typing with TypeScript
+- Explain basic types in TypeScript
+- Use interfaces, classes and functions
+- Work with the DOM using TypeScript
+- Use generic types
+- Organize code using namespaces
+- Merge declarations 
+- Use an ambient namespace to import an external library
+- Implement basic nominal typing with TypeScript
 
 ## Requirements
 
-- Editors: vi, vim, emacs, Visual Studio Code
-- All files should end with a new line
-- All files will be transpiled on Ubuntu 18.04
-- TypeScript scripts will be checked with Jest (version 24.9.*)
-- The TypeScript compiler should not show any warnings or errors when compiling your code
+- Allowed editors: `vi`, `vim`, `emacs`, Visual Studio Code
+- All files end with a new line
+- TypeScript files use the `.ts` extension
+- `tsc` compiler should not show any errors
+- Includes a `README.md` at the root with project description
 
-## Getting Started
-
-1. Clone this repository.
-2. Install project dependencies: `npm install`
-3. Run the project: `npm start`
-4. Run tests: `npm test`
-
-## Project Structure
-
-- `src/`: Contains TypeScript source code.
-- `tests/`: Contains test files.
-- `package.json`: Project dependencies and scripts.
-- `tsconfig.json`: TypeScript compiler configuration.
-- `.eslintrc.js`: ESLint configuration.
-- `webpack.config.js`: Webpack configuration.
-
-## License
-
-This project is licensed under the MIT License. See the [Holberton School](Holberton School) file for details.
-
-## Author
-
-- Joel Nchindap
+## Setup
