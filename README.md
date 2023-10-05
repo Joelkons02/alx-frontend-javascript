@@ -16,7 +16,8 @@
 
 For this project, we expect you to look at these concepts:
 
-:globe_americas: Modern Javascript 
+![Modern JavaScript](https://img.shields.io/badge/concept-Modern%20JavaScript-yellow.svg?style=for-the-badge)
+ 
 
 :wrench: Software Linter
 
