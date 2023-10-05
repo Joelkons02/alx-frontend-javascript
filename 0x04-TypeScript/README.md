@@ -1,14 +1,14 @@
-# 0x04. Typescript 
+# 0x04. Typescript
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## About 
+## About
 
-![About](https://cdn-icons-png. This project is focused on learning TypeScript fundamentals including:
+This project is focused on learning TypeScript fundamentals including:
 
 - Basic types
-- Interfaces, classes and functions  
+- Interfaces, classes and functions
 - Working with the DOM
 - Generics
 - Namespaces
@@ -16,52 +16,57 @@
 - Ambient namespaces
 - Nominal typing
 
-## Resources 
+## Resources
 
-![Reading](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-reading-e-learning-justicon-lineal-justicon.png) ### Read or watch
+### Read or watch
 
-- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) 
 - [TypeScript documentation](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ## Learning Objectives
 
-![Learning objectives](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-learning-e-learning-justicon-lineal-justicon-2.png) By the end of this project, you should be able to:
+By the end of this project, you should be able to:
 
 - Explain basic types in TypeScript
-- Use interfaces, classes and functions  
+- Use interfaces, classes and functions
 - Work with the DOM using TypeScript
 - Use generic types
 - Organize code using namespaces
-- Merge declarations
+- Merge declarations 
 - Use an ambient namespace to import an external library
 - Implement basic nominal typing with TypeScript
 
 ## Requirements
 
-![Requirements](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-requirement-business-justicon-lineal-justicon.png)
-
 - Allowed editors: `vi`, `vim`, `emacs`, Visual Studio Code
 - All files end with a new line
-- TypeScript files use the `.ts` extension 
-- `webpack` compiler should not show any errors  
+- TypeScript files use the `.ts` extension
+- `webpack` compiler should not show any errors
 - Includes a `README.md` at the root with project description
 
 ## Setup
 
-![Terminal](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-terminal-devops-justicon-lineal-justicon.png)
+### Configuration Files
+Please use these files for the following tasks
 
-## Compilation 
+- `package.json`
+- `.eslintrc.js`
+- `tsconfig.json`
+- `webpack.config.js`
 
-![Compilation](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-compilation-programming-justicon-lineal-justicon.png)
+Run `npm install`
+
+## Compilation
+
+`npm run build`
 
 ## Linting
 
-![Linting](https://img.icons8.com/external-justicon-flat-justicon/24/000000/external-linting-programming-justicon-flat-justicon.png)
-
+`npm run lint`
 
 ## Running Tests
 
-![Testing](https://img.icons8.com/external-justicon-lineal-justicon/24/000000/external-testing-continuous-integration-justicon-lineal-justicon.png)
+`npm run test`
 
 ## Tasks
 
@@ -129,5 +134,3 @@
 
 - Create `MajorCredits` and `MinorCredits` interfaces and add brand property
 - Create functions to sum credits based on brand property
-
-
